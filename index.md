@@ -1,4 +1,4 @@
-# CHAOS BLOG+SPACE
+# Home
 Hello and welcome to my poorly written chaos tech blog/space 
 
 ## Origin Story
